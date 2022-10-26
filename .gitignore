@@ -45,6 +45,7 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 Content/StarterContent/
+Content/LightProfilePack/
 Build/*
 Builds/*
 
